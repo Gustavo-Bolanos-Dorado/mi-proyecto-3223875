@@ -1,0 +1,14 @@
+# Texto: normalizar a LF en el repo
+* text=auto eol=lf
+
+# Windows-only scripts con CRLF (si los usas)
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# Archivos que no se deben convertir
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
