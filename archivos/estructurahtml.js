@@ -1,1 +1,1 @@
-"estructura HTML encabezado" 
+'estructura HTML encabezado';
